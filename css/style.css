@@ -1,0 +1,129 @@
+html
+{
+	position: relative;
+}
+
+body
+{
+	margin-bottom: 48px;
+	margin-top: 24px;
+}
+
+.minMarginTop
+{
+	margin-top: -28px;
+}
+
+
+/* Website */
+
+/* Jumbotron */
+
+.jumbotron
+{
+	font-family: "Tangerin";
+	color: #fcff5e;
+	background-color: #3f4042;
+	overflow: hidden;
+	font-style: italic;
+	max-height: 420px;
+}
+
+.jumbotron img
+{
+	width: 224px;
+	border: 4px solid #575757;
+	box-shadow: 1px 1px 10px rgba(0,0,0,0.75);
+}
+
+.jumbotron h1, .jumbotron p
+{
+	text-shadow: 1px 1px 10px rgba(0,0,0,0.75);
+}
+
+/* Jumbotron */
+
+hr
+{
+	width: 256px;
+	border-top: 3px solid #666;
+	margin-top: -8px;
+	margin-bottom: 6px;
+}
+
+section
+{
+	min-height: 64px;
+	background-color: #eee;
+}
+
+/* Jumbotron */
+
+/* Post */
+
+.posts
+{
+	background-color: #eee;
+}
+
+/* Post */
+
+/*paragraf posts*/
+.posts p
+{
+	font-size: 18px;
+}
+/*paragraf posts*/
+
+/*Back to Top*/
+
+div.up
+{
+	position: absolute;
+	margin-bottom: 64px;
+}
+
+a.up
+{
+	font-size: 32px;
+	color: #3f4042;
+}
+
+div.pu
+{
+	background-color: #eee;
+}
+
+/*Back to Top*/
+
+/*images*/
+#posts div img
+{
+	max-width: 640px
+}
+/*images*/
+
+/* Footer */
+
+footer .footer-website
+{
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 48px;
+	background-color: #333;
+	padding-top: 2px;
+}
+
+footer p
+{
+	color: #999;
+	font-size: 0.95em;
+}
+
+footer a
+{
+	color: #fc8b35;
+}
+/* Footer */
